@@ -1,0 +1,38 @@
+CSS
+
+h1{
+    color: red;
+    font-size: 18px;
+}
+
+p{
+    color: blue;
+    font-size: 18px;
+}
+
+HTML
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <style>
+        h1{
+            color: orange;
+            font-size: 36px;
+        }
+    </style>
+
+</head>
+<body>
+    <h1>The</h1>
+    <p>ghgdfghd hngdfghj dsfjkgfdkfgd</p>
+
+    <h1 style="color: blueviolet;">Tiêu đề</h1>
+
+</body>
+</html>
